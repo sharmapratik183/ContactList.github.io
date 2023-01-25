@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ContactList.github.io/static/css/main.42c3d64b.css",
+    "main.js": "/ContactList.github.io/static/js/main.df062b7a.js",
+    "index.html": "/ContactList.github.io/index.html",
+    "main.42c3d64b.css.map": "/ContactList.github.io/static/css/main.42c3d64b.css.map",
+    "main.df062b7a.js.map": "/ContactList.github.io/static/js/main.df062b7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42c3d64b.css",
+    "static/js/main.df062b7a.js"
+  ]
+}
